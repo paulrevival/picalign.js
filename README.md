@@ -76,7 +76,7 @@ to your
 and get some miracle.
 
 1. `data-pa-size="center"`<br />
-Will center your img inside if `.pa-picbox` without stretching.<br />
+Will center your img inside of `.pa-picbox` without stretching.<br />
 It gives a *table-cell* effect with `{ vertical-align: middle }` and `{ text-align: center }`,
 but without 'display: table/table-cell' usage.
 
