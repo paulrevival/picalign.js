@@ -22,12 +22,12 @@ or aligning image (both vertically and horizontally) in the middle like `{ displ
 
 This plugin requires jquery-1.11.x and newer to be included.
 
-1. Just include to your html scripts-folder:
+- Just include to your html scripts-folder:
 ```html
 <script src="jquery-1.11.3.min.js"></script>
 <script src="jquery.picalign.js"></script>
 ```
-2. Follow such html structure:
+- Follow such html structure:
 ```html
 <div class="pa-picbox">
   <img src=".." class="pa-piccent">
