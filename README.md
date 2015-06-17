@@ -11,7 +11,7 @@ It'll help you to position your `<img>` in the center of the container,
 stretching the image like `{ background: cover }` and `{ backround-position: center center }` props do it together,
 or aligning image (both vertically and horizontally) in the middle like `{ display:table-cell }` does.
 
-**No more need for trimming\cropping your images if it don't suite to it's container.**
+**No more need for trimming\cropping your images if it doesn't suite to it's container.**
 
 1. Take your `<img src="..">`;
 2. Set class `.pa-piccent` to it.
